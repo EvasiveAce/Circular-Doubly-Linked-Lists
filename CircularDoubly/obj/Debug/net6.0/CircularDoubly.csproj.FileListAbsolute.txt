@@ -1,0 +1,15 @@
+C:\Users\HENSLEYEJ\source\repos\CircularDoubly\CircularDoubly\bin\Debug\net6.0\CircularDoubly.exe
+C:\Users\HENSLEYEJ\source\repos\CircularDoubly\CircularDoubly\bin\Debug\net6.0\CircularDoubly.deps.json
+C:\Users\HENSLEYEJ\source\repos\CircularDoubly\CircularDoubly\bin\Debug\net6.0\CircularDoubly.runtimeconfig.json
+C:\Users\HENSLEYEJ\source\repos\CircularDoubly\CircularDoubly\bin\Debug\net6.0\CircularDoubly.dll
+C:\Users\HENSLEYEJ\source\repos\CircularDoubly\CircularDoubly\bin\Debug\net6.0\CircularDoubly.pdb
+C:\Users\HENSLEYEJ\source\repos\CircularDoubly\CircularDoubly\obj\Debug\net6.0\CircularDoubly.csproj.AssemblyReference.cache
+C:\Users\HENSLEYEJ\source\repos\CircularDoubly\CircularDoubly\obj\Debug\net6.0\CircularDoubly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HENSLEYEJ\source\repos\CircularDoubly\CircularDoubly\obj\Debug\net6.0\CircularDoubly.AssemblyInfoInputs.cache
+C:\Users\HENSLEYEJ\source\repos\CircularDoubly\CircularDoubly\obj\Debug\net6.0\CircularDoubly.AssemblyInfo.cs
+C:\Users\HENSLEYEJ\source\repos\CircularDoubly\CircularDoubly\obj\Debug\net6.0\CircularDoubly.csproj.CoreCompileInputs.cache
+C:\Users\HENSLEYEJ\source\repos\CircularDoubly\CircularDoubly\obj\Debug\net6.0\CircularDoubly.dll
+C:\Users\HENSLEYEJ\source\repos\CircularDoubly\CircularDoubly\obj\Debug\net6.0\refint\CircularDoubly.dll
+C:\Users\HENSLEYEJ\source\repos\CircularDoubly\CircularDoubly\obj\Debug\net6.0\CircularDoubly.pdb
+C:\Users\HENSLEYEJ\source\repos\CircularDoubly\CircularDoubly\obj\Debug\net6.0\CircularDoubly.genruntimeconfig.cache
+C:\Users\HENSLEYEJ\source\repos\CircularDoubly\CircularDoubly\obj\Debug\net6.0\ref\CircularDoubly.dll
